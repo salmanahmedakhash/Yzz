@@ -1,0 +1,8 @@
+{
+  "name": "Book Admin Pro",
+  "description": "A comprehensive administrative panel for a digital library, featuring book and category management, analytics, and AI-powered content assistance using Firebase Firestore.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
